@@ -26,7 +26,7 @@ Ensure you have the following installed:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/pulkitgarg04/LibraryManagementSystem.git
+git clone https://github.com/pulkitgxrg/LibraryManagementSystem.git
 cd LibraryManagementSystem
 ```
 
@@ -87,7 +87,7 @@ Feel free to fork the repository and submit pull requests to enhance the functio
 2. Clone Your Fork:
     - Clone your forked repository to your local machine:
     ```bash
-    git clone https://github.com/pulkitgarg04/LibraryManagementSystem.git
+    git clone https://github.com/pulkitgxrg/LibraryManagementSystem.git
     cd LibraryManagementSystem
     ```
 3. Create a New Branch:
